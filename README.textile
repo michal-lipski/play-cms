@@ -1,5 +1,6 @@
 h1. A simple CMS for Play! applications
 
+!https://secure.travis-ci.org/michal-lipski/play-cms.png?branch=master(Build Status)!:http://travis-ci.org/michal-lipski/play-cms
 
 Ever had the requirement to quickly do a simple textual change to one of the static pages of your app? - Here comes the solution: Embed a simple CMS!
 
